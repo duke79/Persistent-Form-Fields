@@ -1,5 +1,5 @@
 # Persistent-Form-Fields
-Tamptermonkey/Greasemonkey script to make form-field-values persistent.
+Tampermonkey/Greasemonkey script to make form-field-values persistent.
 It stays the way, last time you left it.
 
 # Prerequisites
